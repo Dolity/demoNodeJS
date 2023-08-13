@@ -1,0 +1,13 @@
+# สวัสดี
+# Hello
+
+vasdasdqwdwq
+dqwdqwdwqd
+qwdwq
+
+# ฝันดี
+# G9
+
+``
+node justTest.js
+``
